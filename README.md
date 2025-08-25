@@ -1,11 +1,11 @@
 # ELI5 Project
 ## Discord bot that generates ELI5 explanations.
 
-Project Manager:
+Project Manager:  
 Kayla Tang
 
-Developers:
-Ahmad 
-Nicole 
-Saad 
-Gabren 
+Developers:  
+Ahmad   
+Nicole   
+Saad   
+Gabren   
