@@ -6,6 +6,6 @@ Kayla Tang
 
 Developers:  
 Ahmad   
-Nicole   
+Nicole Cortez  
 Saad   
 Gabren   
