@@ -7,5 +7,5 @@ Kayla Tang
 Developers:  
 Ahmad   
 Nicole   
-Saad   
-Gabren Sysavath   
+Saad Elyas     
+Gabren Sysavath  
