@@ -5,7 +5,7 @@ Project Manager:
 Kayla Tang
 
 Developers:  
-Ahmad   
-Nicole   
-Saad   
-Gabren   
+Ahmad Sawalha   
+Nicole Cortez   
+Saad Elyas     
+Gabren Sysavath  
